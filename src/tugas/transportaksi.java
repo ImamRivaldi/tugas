@@ -24,8 +24,8 @@ public class transportaksi {
         Roket.JmlAwak = 20;
         Roket.Warna = "Putih";
         
-        Pesawat.infotransport();
-        Helikopter.infotransport();
-        Roket.infotransport();
+        Pesawat.datapesawat();
+        Helikopter.dataheli();
+        Roket.dataroket();
     }
 }
