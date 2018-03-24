@@ -9,5 +9,7 @@ public class transportaksi {
         Pesawat.JmlKursi = 30;
         Pesawat.JmlAwak = 50;
         Pesawat.Warna = "Putih Pink";
+        
+        Pesawat.infotransport();
     }
 }
